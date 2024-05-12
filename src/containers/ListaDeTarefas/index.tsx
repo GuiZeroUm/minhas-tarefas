@@ -4,7 +4,7 @@ import { Container } from './styles'
 const tarefas = [
   {
     Titulo: 'Estudar React',
-    prioridade: 'Alta',
+    prioridade: 'Média',
     status: 'Pendente',
     descricao: 'Estudar React para poder desenvolver aplicações'
   },
@@ -17,7 +17,7 @@ const tarefas = [
   {
     Titulo: 'Estudar Angular',
     prioridade: 'Alta',
-    status: 'Pendente',
+    status: 'Concluído',
     descricao: 'Estudar Angular para poder desenvolver aplicações'
   }
 ]
